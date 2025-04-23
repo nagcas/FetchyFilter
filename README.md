@@ -17,7 +17,8 @@ Puoi vedere l'app in azione semplicemente aprendo `index.html` in un browser.
 ```
 📦 project-folder/ 
 ├── index.html # HTML principale 
-├── script.js # Script JavaScript per fetch, filter e render ├── style.css # (opzionale) file di stile aggiuntivo
+├── script.js # Script JavaScript per fetch, filter e render
+├── style.css # (opzionale) file di stile aggiuntivo
 ```
 
 ## 🔧 Come funziona
